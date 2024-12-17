@@ -5,4 +5,4 @@ This repository contains the assignments completed during the course taught by F
 - T2: Naive Bayes, Linear Models & Neural Networks <br>
 - T4: Sequnce to Sequence <br>
 
-Team members: Matías Rivera, Vicente Thiele, Patricio Espinoza
+Team members: [Matías Rivera](https://github.com/matito644), [Vicente Thiele](https://github.com/ElVichoSiu), [Patricio Espinoza](https://github.com/patricioespinozaa)
